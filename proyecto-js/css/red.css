@@ -1,0 +1,26 @@
+body{
+    background: url("../img/rojo.jpg");
+    background-attachment: fixed;
+}
+
+#logo{
+    background: #ca3413;
+    
+}
+
+#menu ul li:hover{
+    background: #ca3413;
+}
+
+.button-more{
+    font-size: 14px;
+    text-align: center;
+    display: block;
+    padding: 15px;
+    background: #ca3413;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    width: 70px;
+    margin-bottom: 20px;
+}
